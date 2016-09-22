@@ -1,16 +1,16 @@
-# Josh Anderson's p1
+# Josh Anderson's p2
 
 ## Live URL
-<http://p1.thewriter.site>
+<http://p2.thewriter.site>
 
 ## Description
-Let's get to know each other
+Make a travword (travel + password)
 
 ## Demo
-<https://youtu.be/i6R1_NktDWM>
+<https://www.youtube.com/watch?v=0TtAtGl94B0>
 
 ## Details for teaching team
 No login required.
 
 ## Outside code
-* Bootstrap Theme: https://blackrockdigital.github.io/startbootstrap-new-age/
+* Form template from tutorialzine.com/2015/07/freebie-7-clean-and-responsive-forms/
